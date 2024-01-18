@@ -1,2 +1,2 @@
 This is new a file in branch1
-this is 2
+this is new
